@@ -7,7 +7,7 @@ import img3 from '../../assets/products/f3.jpg'
 export default function CartProd() {
   return (
     <>
-    <section id="cart" className="section-p1 " >
+    <section id="cart" className="section-p1 tableDesign" >
         <table width="100%">
             <thead>
                 <tr>
